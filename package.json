@@ -1,0 +1,6 @@
+{
+    "name": "bootstrapTask", "version": "1.0.0", "keywords": [
+        "util", "functional", "server", "client", "browser"
+    ], "author": "20112", "contributors": [
+    ], "dependencies": {}
+}
